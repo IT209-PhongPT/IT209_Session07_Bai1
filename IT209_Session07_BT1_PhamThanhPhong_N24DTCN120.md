@@ -2,9 +2,9 @@
 
 - **Họ và tên:** Phạm Thanh Phong
 - **Mã sinh viên:** N24DTCN120
-- **Môn học:** IT209 - Phát triển ứng dụng Web / Cloud Infrastructure
-- **Session:** 07 - Truyền tải dữ liệu an toàn (SFTP/SCP) & Quản trị tài khoản giới hạn
-- **Đường dẫn nộp bài:** `homework/session_07/ex1/`
+- **Môn học:** IT209 
+- **Session:** 07 
+
 
 ---
 
